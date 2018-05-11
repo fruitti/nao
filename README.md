@@ -14,11 +14,11 @@ Dossier d'installation (sur le Raspberry) : /var/www/htdocs/new
 ### Client
 
 ```
-    cd /var/www/htdocs/new/client
-    npm install
-    npm run build
+    $ cd /var/www/htdocs/new/client
+    $ npm install
+    $ npm run build
 
-    cp -R dist/* ../
+    $ cp -R dist/* ../
 ````
 
 ### Base de données
@@ -29,8 +29,8 @@ Fichier *.sql : /var/www/htdocs/new/api/model/db.sql
 ## Démarrage de l'application
 
 ```
-    cd /var/www/htdocs/new/client
-    npm start
+    $ cd /var/www/htdocs/new/client
+    $ npm start
 ```
 
 Ouvrir la page localhost:8080 sur un navigateur puis modifier le fichier client/conf/webpack/dev.js pour y changer la variable représentant l'URL de l'application.
