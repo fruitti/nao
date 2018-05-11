@@ -1,0 +1,102 @@
+.notifications {
+  position: fixed;
+  top: 5px;
+  right: 0;
+  z-index: 999;
+}
+
+.top {
+  z-index: 1;
+}
+
+.padding-top {
+  padding-top: 60px;
+}
+
+.simple-padding {
+    padding-top: 5px;
+}
+
+.center-icon-name {
+  display: flex;
+  justify-content: center;
+  align-items: center
+}
+
+.tableSupport {
+  width: 100% !important;
+  margin: 0;
+  padding: 0 0 0 0;
+  height:187px;
+  overflow-y:auto;
+  overflow-x:hidden;
+}
+
+.tableSupportItems {
+  width: 100% !important;
+}
+
+.tableSupportItems > tr {
+  border-bottom: 1px solid black;
+  text-align: left;
+}
+
+.center {
+  text-align: center;
+}
+
+.subTable {
+  width: 100%;
+  border: 1px solid #000000;
+}
+
+.subTable tbody tr {
+  width: 100%;
+  border: 1px solid #000000;
+}
+
+.subTable tbody tr td{
+  width: 100%;
+  border: 1px solid #000000;
+}
+
+img .ui .avatar .image {
+  border: 1px solid #000000;
+}
+
+.padding-right {
+  padding-right: 5px;
+}
+
+.min-image-notification img {
+  height: 40px;
+}
+
+.max-height-notification {
+  max-height: 350px;
+  overflow: auto;
+}
+
+.overflow-menu-admin {
+  overflow: auto;
+}
+
+.min-width-menu {
+  width: 200px;
+}
+
+.fa-rotate-45 {
+    -webkit-transform: rotate(45deg);
+    -moz-transform: rotate(45deg);
+    -ms-transform: rotate(45deg);
+    -o-transform: rotate(45deg);
+    transform: rotate(45deg);
+}
+
+.batteryPourcent {
+    z-index: 999;
+    position: absolute;
+    font-weight: bold;
+    left: 30%;
+    font-size: 80%;
+}

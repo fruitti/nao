@@ -1,0 +1,1 @@
+<?php// function debug print_rfunction pr($o){    echo "<pre>";    print_r($o);    echo "</pre>";}// function debug var dumpfunction pv($o){    echo "<pre>";    var_dump($o);    echo "</pre>";}

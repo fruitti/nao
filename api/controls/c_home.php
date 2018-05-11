@@ -1,0 +1,1 @@
+<?php!isset($_REQUEST['a']) ? $_action = '' : $_action = $_REQUEST['a'];switch($_action) {	default:        echo json_encode([            'message' => 'welcome to nao API'        ]);    break;}
