@@ -9,7 +9,7 @@ Code source de l'application web permettant le contrôle du robot NAO. L'applica
 	
 ## Installation
 
-Dossier d'installation (sur le Raspberry) : /var/www/htdocs/new
+* Dossier d'installation (sur le Raspberry) : /var/www/htdocs/new
 
 ### Client
 
