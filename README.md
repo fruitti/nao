@@ -23,8 +23,8 @@ Dossier d'installation (sur le Raspberry) : /var/www/htdocs/new
 
 ### Base de données
 
-Fichier de configuration : /var/www/htdocs/new/api/config.php
-Fichier *.sql : /var/www/htdocs/new/api/model/db.sql
+* Fichier de configuration : /var/www/htdocs/new/api/config.php
+* Fichier *.sql : /var/www/htdocs/new/api/model/db.sql
 
 ## Démarrage de l'application
 
@@ -37,7 +37,6 @@ Ouvrir la page localhost:8080 sur un navigateur puis modifier le fichier client/
 
 ## Accès
 
-URL de l'application : IP/new
-
-Identifiant  : test
-Mot de passe : test
+* URL de l'application : IP/new
+* Identifiant  : test
+* Mot de passe : test
