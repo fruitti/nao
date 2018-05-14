@@ -16,10 +16,11 @@ Code source de l'application web permettant le contrôle du robot NAO. L'applica
 ```
     $ cd /var/www/htdocs/new/client
     $ npm install
-    $ npm run build
+    $ npm build
+    $ npm run dist
 
     $ cp -R dist/* ../
-````
+```
 
 ### Base de données
 
