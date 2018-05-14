@@ -18,8 +18,7 @@ Code source de l'application web permettant le contrôle du robot NAO. L'applica
     $ npm install
     $ npm build
     $ npm run dist
-
-    $ cp -R dist/* ../
+    $ npm run serve:dist
 ```
 
 ### Base de données
