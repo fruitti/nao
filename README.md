@@ -24,7 +24,7 @@ Code source de l'application web permettant le contrôle du robot NAO. L'applica
 ### Base de données
 
 * Fichier de configuration : /var/www/htdocs/new/api/config.php
-* Fichier \*.sql : /var/www/htdocs/new/api/model/db.sql
+* Fichier \*.sql : /var/www/htdocs/new/api/models/db.sql
 
 ## Démarrage de l'application
 
